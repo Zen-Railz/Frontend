@@ -1,3 +1,5 @@
+![GitHub Workflow Build](https://github.com/Zen-Railz/Frontend/actions/workflows/main.yaml/badge.svg?branch=main)
+
 ![ZenRailz Frontend Logo](images/logo.svg)
 
 # Overview
